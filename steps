@@ -8,6 +8,7 @@ GIT COMPARE
 
 ==========
 AREA DALAM GIT
+
 1. WORKING TREE
 
 2. STAGING AREA
@@ -27,3 +28,14 @@ git commit -m "Inisialisasi projek GIT" => melakukan commit dengan message .....
 ====
 
 git revert 93b6fc9a1d9f61c98935bb674c43f25ef674ad97
+
+====
+bikin repository di github
+setup remote origin pake url github
+terus tentukan branch utama (biasanya master)
+terus push atau upload code/folder git local kalian ke github
+
+=====================
+CARA MEMBUAT branch
+command git branch <nama branch>
+git checkout <nama branch>
