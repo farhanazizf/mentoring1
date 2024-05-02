@@ -1,0 +1,27 @@
+bikin folder dan file
+ketik git -v atau git dan enter
+lalu git init .
+
+
+
+===========
+GIT REBASE / GIT MERGE-COMMIT
+GIT COMPARE
+
+==========
+
+
+AREA DALAM GIT
+
+
+1. WORKING TREE
+
+2. STAGING AREA
+
+3. HISTORY AREA
+
+=========
+
+config
+git config --global user.name "user name github kalian" =>
+git config --global user.email "farhanazizf7@gmail.com" =>
