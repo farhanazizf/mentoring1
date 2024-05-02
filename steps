@@ -2,18 +2,12 @@ bikin folder dan file
 ketik git -v atau git dan enter
 lalu git init .
 
-
-
 ===========
 GIT REBASE / GIT MERGE-COMMIT
 GIT COMPARE
 
 ==========
-
-
 AREA DALAM GIT
-
-
 1. WORKING TREE
 
 2. STAGING AREA
@@ -25,3 +19,10 @@ AREA DALAM GIT
 config
 git config --global user.name "user name github kalian" =>
 git config --global user.email "farhanazizf7@gmail.com" =>
+
+====
+git add . => untuk memindahkan file ke staging AREA
+git commit -m "Inisialisasi projek GIT" => melakukan commit dengan message ......
+
+====
+
