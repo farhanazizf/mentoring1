@@ -26,3 +26,4 @@ git commit -m "Inisialisasi projek GIT" => melakukan commit dengan message .....
 
 ====
 
+git revert 93b6fc9a1d9f61c98935bb674c43f25ef674ad97
